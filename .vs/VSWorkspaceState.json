@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\imgs",
+    "\\src\\pages",
+    "\\src\\pages\\add-note",
+    "\\src\\pages\\home",
+    "\\src\\pages\\view-note",
+    "\\src\\providers",
+    "\\src\\providers\\note-service"
+  ],
+  "SelectedNode": "\\src\\pages\\add-note\\add-note.scss",
+  "PreviewInSolutionExplorer": false
+}
